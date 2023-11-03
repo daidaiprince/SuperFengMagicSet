@@ -26,14 +26,14 @@
 
 ## 操作範例
 
-'''
+```
 Reg1.hKey=HKEY_CURRENT_USER 
 Reg1.Path="Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall" Reg1.CreateKey 
 Reg1.ValueName="NoAddRemovePrograms" 
 Reg1.Data=1 
 Reg1.DataType=REG_DWORD 
 Reg1.SetValue
-'''
+```
 
 
 ![系統架構](https://github.com/daidaiprince/image-database/blob/main/SystemStructure.png?raw=true "系統架構")
