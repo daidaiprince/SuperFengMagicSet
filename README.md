@@ -98,8 +98,14 @@ IE 瀏覽器
 
 ![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG10.png?raw=true "IE 瀏覽器")![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG11.png?raw=true "IE 瀏覽器")
 ![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG12.png?raw=true "IE 瀏覽器")![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG13.png?raw=true "IE 瀏覽器")
-
 ***
+硬碟與光碟機 
+ 
+硬碟和光碟機是電腦中最常被使用的零組件，如果你不想讓別人任意瀏覽磁碟機的內容或者是光碟機的相關設定，要讓它們在使用上能更安全、更有效率，可藉此選項來調整其運行狀態。
+
+![硬碟與光碟機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG14.png?raw=true "硬碟與光碟機")![硬碟與光碟機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG15.png?raw=true "硬碟與光碟機")
+***
+
 
 
 
