@@ -68,7 +68,7 @@ Reg16.DeleteValue
 &emsp;
 &emsp;
 &emsp;
-&emsp;
+***
 
 移除軟體 
  
