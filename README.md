@@ -105,8 +105,12 @@ IE 瀏覽器
 
 ![硬碟與光碟機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG14.png?raw=true "硬碟與光碟機")![硬碟與光碟機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG15.png?raw=true "硬碟與光碟機")
 ***
+核心元件
 
+主機中的微處理器和記憶體，可透過此設定達到最佳化的效能。
 
+![核心元件](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG16.png?raw=true "核心元件")
+***
 
 
 
