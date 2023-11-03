@@ -27,6 +27,7 @@
 
 ## 程式範例
 
+建立機碼
 ```
 Reg1.hKey=HKEY_CURRENT_USER 
 Reg1.Path="Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall"
@@ -37,7 +38,7 @@ Reg1.DataType=REG_DWORD
 Reg1.SetValue
 ```
 
-
+修改機碼
 ```
 Reg1.hKey=HKEY_CURRENT_USER 
 Reg1.Path="ControlPanel\Desktop" 
@@ -47,7 +48,13 @@ Reg1.DataType=REG_SZ
 Reg1.SetValue
 ```
 
-
+刪除機碼
+```
+Reg16.hKey=HKEY_CURRENT_USER 
+Reg16.Path="ControlPanel\Desktop" 
+Reg16.ValueName="SmoothScroll" 
+Reg16.DeleteValue
+```
 
 
 
