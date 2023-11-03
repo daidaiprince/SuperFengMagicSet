@@ -111,7 +111,12 @@ IE 瀏覽器
 
 ![核心元件](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG16.png?raw=true "核心元件")
 ***
+系統 
 
+如果你覺得電腦執行的速度有點慢，可以透過此設定，讓電腦執行的更順暢。包含縮短關機的時間、自動關閉沒有回應的程式等功能。 
+
+![系統](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG17.png?raw=true "系統")
+***
 
 
 
