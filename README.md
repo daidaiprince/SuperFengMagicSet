@@ -74,7 +74,7 @@ Reg16.DeleteValue
  
 透過控制台的 [ 新增或移除程式 ] ，我們可以對系統進行新增或移除程式的動作，如果你不希望別人透過這個程式，任意新增程式到電腦中，或者把你所安裝的程式移除，可藉此來禁止或停用功能。 
 
-![移除軟體](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG02.png?raw=true "移除軟體")
+![移除軟體](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG03.png?raw=true "移除軟體")
 &emsp;
 &emsp;
 
