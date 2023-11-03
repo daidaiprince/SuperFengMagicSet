@@ -86,6 +86,11 @@ Reg16.DeleteValue
 ![開機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG07.png?raw=true "開機")
 ![開機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG08.png?raw=true "開機")
 ***
+網路加速
+
+Windows 預設的網路參數較為保守，並沒有將速度發揮到最大的效能，你可以透過這個選項來調整設定，讓網路速度達到極限。
+
+![網路加速](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG09.png?raw=true "網路加速")
 
 
 
