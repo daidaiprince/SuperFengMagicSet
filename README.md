@@ -37,7 +37,7 @@ Reg1.Data=1
 Reg1.DataType=REG_DWORD 
 Reg1.SetValue
 ```
-
+&emsp;
 修改機碼
 ```
 Reg1.hKey=HKEY_CURRENT_USER 
@@ -47,7 +47,7 @@ Reg1.Data="1"
 Reg1.DataType=REG_SZ 
 Reg1.SetValue
 ```
-
+&emsp;
 刪除機碼
 ```
 Reg16.hKey=HKEY_CURRENT_USER 
