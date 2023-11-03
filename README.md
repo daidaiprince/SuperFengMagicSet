@@ -91,6 +91,13 @@ Reg16.DeleteValue
 Windows 預設的網路參數較為保守，並沒有將速度發揮到最大的效能，你可以透過這個選項來調整設定，讓網路速度達到極限。
 
 ![網路加速](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG09.png?raw=true "網路加速")
+***
+IE 瀏覽器
+
+如果你不想要被別人更改你的 IE 首頁或是禁止別人在你的電腦上下載檔案，或者是你想要自訂 IE 視窗的標題列…等，舉凡和 IE 相關的選項，都可藉此來設定。
+![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG10.png?raw=true "IE 瀏覽器")![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG11.png?raw=true "IE 瀏覽器")
+***
+
 
 
 
