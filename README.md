@@ -123,5 +123,10 @@ IE 瀏覽器
 
 ![桌面](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG18.png?raw=true "桌面")![桌面](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG19.png?raw=true "桌面")
 ***
+多人使用
 
+可對使用者帳戶作新增、刪除、關閉、開啟的動作。 
+
+![多人使用](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG20.png?raw=true "多人使用")
+***
 
