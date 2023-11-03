@@ -95,7 +95,10 @@ Windows 預設的網路參數較為保守，並沒有將速度發揮到最大的
 IE 瀏覽器
 
 如果你不想要被別人更改你的 IE 首頁或是禁止別人在你的電腦上下載檔案，或者是你想要自訂 IE 視窗的標題列…等，舉凡和 IE 相關的選項，都可藉此來設定。
+
 ![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG10.png?raw=true "IE 瀏覽器")![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG11.png?raw=true "IE 瀏覽器")
+![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG12.png?raw=true "IE 瀏覽器")![IE 瀏覽器](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG13.png?raw=true "IE 瀏覽器")
+
 ***
 
 
