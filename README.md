@@ -77,6 +77,8 @@ Reg16.DeleteValue
 開始功能表和工作列，可以說是 Windows 中最常操作的地方，裡面幾乎提供了大半執行的功能，如果你不希望別人輕易地透過開始功能表，對系統進行各項操作，可透過此設定將一些項目隱藏起 來，避免透過開始功能表和工作列進行設定，以保護系統使用的安全性。
 
 ![開始選單](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG05.png?raw=true "開始選單")
+![開始選單](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG06.png?raw=true "開始選單")
+
 ***
 
 
