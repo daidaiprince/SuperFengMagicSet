@@ -24,11 +24,12 @@
 
 
 
-## 操作範例
+## 程式範例
 
 ```
 Reg1.hKey=HKEY_CURRENT_USER 
-Reg1.Path="Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall" Reg1.CreateKey 
+Reg1.Path="Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall"
+Reg1.CreateKey 
 Reg1.ValueName="NoAddRemovePrograms" 
 Reg1.Data=1 
 Reg1.DataType=REG_DWORD 
