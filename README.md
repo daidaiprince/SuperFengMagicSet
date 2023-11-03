@@ -60,7 +60,8 @@ Reg16.DeleteValue
 
 ## 軟體畫面
 
-
+自動執行 
+當 Windows 開機時會自動執行一些應用程式，一般的取消方式是在開始功能表中的[啟動]上刪除，可是有些程式並不會在這個資料夾中，便可藉此來取消開機時自動執行的程式。
 ![自動執行](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG02.png?raw=true "自動執行")
 
 
