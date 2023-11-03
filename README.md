@@ -38,6 +38,19 @@ Reg1.SetValue
 ```
 
 
+```
+Reg1.hKey=HKEY_CURRENT_USER 
+Reg1.Path="ControlPanel\Desktop" 
+Reg1.ValueName="MenuShowDelay" 
+Reg1.Data="1" 
+Reg1.DataType=REG_SZ 
+Reg1.SetValue
+```
+
+
+
+
+
 ![系統架構](https://github.com/daidaiprince/image-database/blob/main/SystemStructure.png?raw=true "系統架構")
 
 
