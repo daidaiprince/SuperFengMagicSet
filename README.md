@@ -67,6 +67,8 @@ Reg16.DeleteValue
 ![自動執行](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG02.png?raw=true "自動執行")
 &emsp;
 &emsp;
+&emsp;
+&emsp;
 
 移除軟體 
  
