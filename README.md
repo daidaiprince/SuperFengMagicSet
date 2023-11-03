@@ -129,4 +129,9 @@ IE 瀏覽器
 
 ![多人使用](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG20.png?raw=true "多人使用")
 ***
+BIOS 資訊
+
+顯示系統相關 BIOS 資訊，包含發行日期、版本、版權…。
+
+![BIOS 資訊](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG21.png?raw=true "BIOS 資訊")
 
