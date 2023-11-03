@@ -117,8 +117,11 @@ IE 瀏覽器
 
 ![系統](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG17.png?raw=true "系統")
 ***
+桌面
 
+桌面可說是 Windows 操作相當重要的部份，除了一般的桌面設定，還可讓桌面的操作更具變化，甚至可設定不讓任何人隨便更改桌面，都藉由此選項來設定 。
 
-
+![桌面](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG18.png?raw=true "桌面")![桌面](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG19.png?raw=true "桌面")
+***
 
 
