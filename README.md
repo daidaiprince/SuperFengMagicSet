@@ -78,12 +78,14 @@ Reg16.DeleteValue
 
 ![開始選單](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG05.png?raw=true "開始選單")
 ![開始選單](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG06.png?raw=true "開始選單")
-
-
-
 ***
+開機 
 
+與開機相關的選項，除了可以自訂登入歡迎畫面的背景之外，還有開機固定開啟數字鍵、關閉自動 重新啟動…等功能可以設定。
 
+![開機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG07.png?raw=true "開機")
+![開機](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG08.png?raw=true "開機")
+***
 
 
 
