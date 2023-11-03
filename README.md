@@ -13,7 +13,7 @@
 
 
 ## 開發緣由
-學習VB語言在使用控制元件(OCX)的時候，無意間在網路上找到登錄機碼存取的OCX，搭配登錄檔大全書籍，完成此具系統調校功能的軟體。
+學習VB語言使用控制元件(OCX)的時候，無意間在網路上找到登錄機碼存取的OCX，搭配登錄檔大全書籍，完成此具系統調校功能的軟體。
 &emsp;
 &emsp;
 
@@ -24,7 +24,16 @@
 
 
 
-## 系統架構
+## 操作範例
+
+'''
+Reg1.hKey=HKEY_CURRENT_USER 
+Reg1.Path="Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall" Reg1.CreateKey 
+Reg1.ValueName="NoAddRemovePrograms" 
+Reg1.Data=1 
+Reg1.DataType=REG_DWORD 
+Reg1.SetValue
+'''
 
 
 ![系統架構](https://github.com/daidaiprince/image-database/blob/main/SystemStructure.png?raw=true "系統架構")
