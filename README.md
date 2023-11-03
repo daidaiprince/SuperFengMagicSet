@@ -70,7 +70,13 @@ Reg16.DeleteValue
 
 透過控制台的 [ 新增或移除程式 ] ，我們可以對系統進行新增或移除程式的動作，如果你不希望別人透過這個程式，任意新增程式到電腦中，或者把你所安裝的程式移除，可藉此來禁止或停用功能。 
 
-![移除軟體](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG03.png?raw=true "移除軟體")![移除軟體](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG04.png?raw=true "移除軟體")
+![移除軟體](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG03.png?raw=true "移除軟體")
+***
+開始選單
+
+開始功能表和工作列，可以說是 Windows 中最常操作的地方，裡面幾乎提供了大半執行的功能，如果你不希望別人輕易地透過開始功能表，對系統進行各項操作，可透過此設定將一些項目隱藏起 來，避免透過開始功能表和工作列進行設定，以保護系統使用的安全性。
+
+![開始選單](https://github.com/daidaiprince/image-database/blob/main/SUPERFENG04.png?raw=true "開始選單")
 ***
 
 
